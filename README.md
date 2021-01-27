@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning Python3, JavaScript and more
 - 🤔 Interested in Machine learning
-- ✨ Aiming to be a resourceful developer
+- ✨ Aiming to be a resourceful programmer
 
 <!--
 **hanana1253/hanana1253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
