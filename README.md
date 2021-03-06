@@ -1,7 +1,5 @@
 ### Welcome to Hangyul's page! 👋
 
-- Currently learning PYTHON and more! 🌱
-
 - Aiming to be a developer who goes extra mile ✨
   - to write REASONABLE code, 
   - to follow Web Standards and secure Web Accessibility
@@ -14,6 +12,7 @@
 **hanana1253/hanana1253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- Currently learning PYTHON and more! 🌱
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
