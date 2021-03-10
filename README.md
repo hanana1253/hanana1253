@@ -1,7 +1,7 @@
 ### Welcome to Hangyul's page! 👋
 
 - Aiming to be a developer who goes extra mile ✨
-  - to write REASONABLE code, 
+  - to write CLEAN and REASONABLE code,
   - to follow Web Standards and secure Web Accessibility
   - to provide convenient UI/UX,
   - and to ENJOY CODING!
