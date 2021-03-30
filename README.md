@@ -3,7 +3,6 @@
 - Aiming to be a developer who goes extra mile ✨
   - to write CLEAN and REASONABLE code,
   - to follow Web Standards and secure Web Accessibility
-  - to provide convenient UI/UX,
   - and to ENJOY CODING!
 
 - 블로그 [Hanana's Blog](https://hanana1253.github.io/)로 놀러오세요!
