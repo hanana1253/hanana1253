@@ -1,11 +1,11 @@
 ### About Hangyul... 👋
 
-- 깔끔하고 성능 좋은 서비스를 만들고 싶은 프론트엔드 주니어 개발자입니다.
-- 풀스택 부트캠프(2021. 01 ~ 07) 수료 후, 프론트엔드 교육과정 클래스매니저(2021. 07 ~ 현재)가 되어 개발자로 폭풍성장 중입니다.🌱
-- Javascript, HTML, CSS(Sass, PostCSS), React(+ Python, Django) 등을 다룰 수 있습니다.
-- Webpack, Babel, ESLint, PostCSS 등 프로젝트에 필요한 프론트엔드 개발환경을 세팅할 수 있습니다.
-- Git을 능숙하게 사용하고, Git Flow 등의 방법론을 통한 프로젝트를 경험했습니다.
-- 웹 통신, RESTful API, 네트워크, 알고리즘을 공부했습니다.
+- 깔끔한 코드와 성능 좋은 서비스를 만들고 싶은 프론트엔드 주니어 개발자 😄
+- 풀스택 부트캠프 수료 후, 프론트엔드 교육 클래스매니저가 되어 개발자로 폭풍성장 중 🌱
+  - Javascript, HTML, CSS(Sass, PostCSS), React(+ Python, Django) 등을 다룰 수 있습니다.
+  - Webpack, Babel, ESLint, PostCSS 등 프로젝트에 필요한 프론트엔드 개발환경을 세팅할 수 있습니다.
+  - Git을 능숙하게 사용하고, Git Flow 등의 방법론을 통한 프로젝트를 경험했습니다.
+  - 웹 통신, RESTful API, 네트워크, 알고리즘을 공부했습니다.
 
 - Aiming to be a developer who goes extra mile ✨
   - to write CLEAN and REASONABLE code,
