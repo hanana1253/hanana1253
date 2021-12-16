@@ -7,11 +7,11 @@
   - Git을 능숙하게 사용하고, Git Flow 등의 방법론을 통한 프로젝트를 경험했습니다.
   - 웹 통신, RESTful API, 네트워크, 알고리즘을 공부했습니다.
 
-- Aiming to be a developer who goes extra mile ✨
+<!-- - Aiming to be a developer who goes extra mile ✨
   - to write CLEAN and REASONABLE code,
   - to follow Web Standards and secure Web Accessibility
   - and to ENJOY CODING!
-
+ -->
 - 블로그 [Hanana's Blog](https://hanana1253.github.io/)로 놀러오세요!
 
 <!--
