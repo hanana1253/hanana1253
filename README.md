@@ -5,14 +5,15 @@
   - Javascript, HTML, CSS(Sass, PostCSS), React, Python, Django 등을 다룰 수 있습니다.
   - Webpack, Babel, ESLint, PostCSS 등 프로젝트에 필요한 프론트엔드 개발환경을 세팅할 수 있습니다.
   - Git을 능숙하게 사용하고, Git Flow 방법론을 활용할 수 있습니다.
-  - 웹 통신, RESTful API, 네트워크, 알고리즘에 대한 탄탄한 기본기를 다졌습니다.
+  - 웹의 동작 원리, RESTful API, 네트워크, 알고리즘에 대한 탄탄한 기본기를 다졌습니다.
 
 <!-- - Aiming to be a developer who goes extra mile ✨
   - to write CLEAN and REASONABLE code,
   - to follow Web Standards and secure Web Accessibility
   - and to ENJOY CODING!
  -->
-- 블로그 [Hanana's Blog](https://hanana1253.github.io/)로 놀러오세요!
+- 공부하며 기록한 [블로그](https://hanana1253.github.io/)로 놀러오세요!
+- 저의 [이력서](https://teal-line-f3e.notion.site/abd6944f991b46e99c02f96dcf0443a8)도 봐주세요!
 
 <!--
 **hanana1253/hanana1253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
