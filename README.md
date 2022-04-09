@@ -12,7 +12,7 @@
   - to follow Web Standards and secure Web Accessibility
   - and to ENJOY CODING!
  -->
-- 공부하며 기록한 [블로그](https://hanana1253.github.io/)와 [이력서](https://teal-line-f3e.notion.site/abd6944f991b46e99c02f96dcf0443a8) 구경할래요?
+- 공부하며 기록한 [블로그](https://hanana1253.github.io/)와 [이력서](https://teal-line-f3e.notion.site/abd6944f991b46e99c02f96dcf0443a8)에 놀러오세요.
 
 <!--
 **hanana1253/hanana1253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
