@@ -5,7 +5,7 @@
   - Javascript, Typescript, HTML, CSS(Sass, CSS in JS), React, NextJS, Python, Django
   - Webpack, Babel, ESLint, PostCSS 등 프로젝트에 필요한 프론트엔드 개발환경을 세팅할 수 있어요.
   - Git을 능숙하게 사용하고, Git Flow 방법론을 활용할 수 있어요.
-  - 웹의 동작 원리, 네트워크, 알고리즘을 공부하고 있어요.
+  - 웹의 동작 원리, 네트워크, 알고리즘의 기본기를 공부헀어요.
 
 <!-- - Aiming to be a developer who goes extra mile ✨
   - to write CLEAN and REASONABLE code,
