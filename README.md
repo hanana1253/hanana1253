@@ -1,10 +1,10 @@
 ### About Hangyul... 👋
 
-- 깔끔한 코드와 성능 좋은 서비스를 만들고 싶은 프론트엔드 개발자 😄
+- 지속가능한 성장을 하고 싶은 프론트엔드 개발자 😄
 - 풀스택 부트캠프 6개월, 프론트엔드 부트캠프 조교 6개월 공부 ⚡
-- 개발에 진심인 그린랩스에서 매일 좌절과 희열을 느끼며 폭풍성장 중 🌱
+- 개발에 진심인 그린랩스에서 배워나가며 팜모닝 서비스를 만드는 중 (2022.04 ~)🌱
 - JavaScript, TypeScript, Python, Django, React 등을 공부했고
-- 지금은 Rescript, Relay, GraphQL, Next.js를 사용하고 있어요
+- 지금은 React Native, Rescript, Relay, GraphQL, Next.js를 사용하고 있어요
   
 <!-- - Aiming to be a developer who goes extra mile ✨
   - to write CLEAN and REASONABLE code,
