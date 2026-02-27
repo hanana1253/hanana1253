@@ -2,7 +2,7 @@
 
 - 지속가능한 성장을 하고 싶은 프론트엔드 개발자 😄
 - 풀스택 부트캠프 6개월, 프론트엔드 부트캠프 조교 6개월 공부 ⚡
-- 개발에 진심인 그린랩스에서 배워나가며 팜모닝 서비스를 만드는 중 (2022.04 ~)🌱
+- 개발에 진심인 그린랩스에서 팜모닝 개발 (2022.04 ~ 2026.02)🌱
 - JavaScript, TypeScript, Python, Django, React 등을 공부했고
 - 지금은 React Native, Rescript, Relay, GraphQL, Next.js를 사용하고 있어요
   
