@@ -3,10 +3,10 @@
 - 지속가능한 성장을 하고 싶은 프론트엔드 개발자 😄
 - 풀스택 부트캠프 6개월, 프론트엔드 부트캠프 조교 6개월 공부하고 (2021.01 ~ 2022.01)
 - 그린랩스에서 함수형 프로그래밍 개발했다가 (2022.04 ~ 2026.02) 🌱
-- AX에 진심인 CJ 제일제당 DX Lab에서 SnapAI 개발 중 (2026.03 ~) 🚀
+- AX에 진심인 CJ제일제당 DX Lab에서 SnapAI 개발 중 (2026.03 ~) 🚀
 - JavaScript, Python, Django, React 등을 공부했고
-- React Native, Rescript, Relay, GraphQL을 사용했다가
-- 지금은 TypeScript, Next.js로 개발하고 있어요
+- React Native, Rescript, Relay, GraphQL로 앱/웹을 개발하다가
+- 지금은 TypeScript, Next.js로 웹 서비스를 개발하고 있어요.
   
 <!-- - Aiming to be a developer who goes extra mile ✨
   - to write CLEAN and REASONABLE code,
