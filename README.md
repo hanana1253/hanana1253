@@ -1,15 +1,17 @@
 ### About Hangyul... 👋
 
 - 지속가능한 성장을 하고 싶은 프론트엔드 개발자 😄
-- 풀스택 부트캠프 6개월, 프론트엔드 부트캠프 조교 6개월 공부 ⚡
-- 개발에 진심인 그린랩스에서 팜모닝 개발 (2022.04 ~ 2026.02)🌱
-- JavaScript, TypeScript, Python, Django, React 등을 공부했고
-- 지금은 React Native, Rescript, Relay, GraphQL, Next.js를 사용하고 있어요
+- 풀스택 부트캠프 6개월, 프론트엔드 부트캠프 조교 6개월 공부하고 (2021.01 ~ 2022.01)
+- 그린랩스에서 함수형 프로그래밍 개발했다가 (2022.04 ~ 2026.02) 🌱
+- AX에 진심인 CJ 제일제당 DX Lab에서 SnapAI 개발 중 (2026.03 ~) 🚀
+- JavaScript, Python, Django, React 등을 공부했고
+- React Native, Rescript, Relay, GraphQL을 사용했다가
+- 지금은 TypeScript, Next.js로 개발하고 있어요
   
 <!-- - Aiming to be a developer who goes extra mile ✨
   - to write CLEAN and REASONABLE code,
   - to follow Web Standards and secure Web Accessibility
-  - and to ENJOY CODING!
+  - and to ENJOY PROGRAMMING!
  -->
 - 공부하며 기록한 [블로그](https://hanana1253.github.io/)와 [이력서](https://teal-line-f3e.notion.site/abd6944f991b46e99c02f96dcf0443a8) 구경해주세요.
 
